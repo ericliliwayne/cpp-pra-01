@@ -1,0 +1,6 @@
+C:\Users\Wayne\Desktop\myWorkspaces\Session4\LinkerErrors\main.cpp
+C:\Users\Wayne\Desktop\myWorkspaces\Session4\CompilerWarnings\main.cpp
+C:\Users\Wayne\Desktop\myWorkspaces\Session4\Project2\main.cpp
+C:\Users\Wayne\Desktop\myWorkspaces\Session4\CompilerErrors\main.cpp
+C:\Users\Wayne\Desktop\myWorkspaces\Session4\FirstProgram\main.cpp
+C:\Users\Wayne\Desktop\myWorkspaces\Session4\Project1\main.cpp
